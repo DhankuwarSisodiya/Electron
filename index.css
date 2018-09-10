@@ -1,0 +1,18 @@
+body
+{
+  text-align: center;
+  margin-top: 7%;
+}
+p
+{
+  font-size: 28px;
+}
+#updateBtn
+{
+    color: white;
+    background-color: black;
+    border-color: black;
+    width: 100px;
+    height: 34px;
+    border-radius: 13px;
+}
